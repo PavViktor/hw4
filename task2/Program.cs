@@ -3,6 +3,7 @@
 82 -> 10
 9012 -> 12 */
 
+
 Console.WriteLine("Enter the number: ");
 int i = Convert.ToInt32(Console.ReadLine());
 int sum = 0;
